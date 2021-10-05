@@ -21,7 +21,7 @@ Using this repository is straight forward. Clone this repository to use.
 This repository contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-US&utm_content=17-DeepLearning-US&campaignid=904733485&adgroupid=49070439496&device=c&keyword=neural%20network%20for%20machine%20learning&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=415429113789&hide_mobile_promo&gclid=EAIaIQobChMI5_CtgI_t7wIVPObjBx0xuwp6EAAYASAAEgKLhvD_BwE).
 
 ## Weekly Learning Objective<a name="Description"></a>
-1. **[Course 1 - Neural Networks and Deep Learning](https://github.com/polvalls9/Deep_Learning_Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)**
+1. **[Course 1 - Neural Networks and Deep Learning](https://github.com/polvalls9/Deep-Learning-Specialization/tree/main/C1%20-%20Neural%20Networks%20and%20Deep%20Learning)**
 
 - **Course Objective:** This course focuses on vectorized implementation of neural networks in Python.
 
